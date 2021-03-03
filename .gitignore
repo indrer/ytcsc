@@ -1,0 +1,4 @@
+__pycache__
+secret*
+.ipynb_checkpoints
+*.bin
