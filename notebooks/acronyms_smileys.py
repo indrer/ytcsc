@@ -9,6 +9,7 @@ acronyms = {
     'af': 'as fuck',
     'bbl': 'be back later',
     'brb': 'be right back',
+    'bozo' : 'idiot',
     'b4': 'before',
     'bs': 'bullshit',
     'cya': 'see ya',
@@ -35,6 +36,7 @@ acronyms = {
     'm8': 'mate',
     'mrw': 'my reaction when',
     'mfw': 'my face when',
+    'mfrs': 'bad',
     'ngl': 'not going to lie',
     'pita': 'pain in the ass',
     'pog': 'awesome',
@@ -251,7 +253,26 @@ smileys = {
     '👎🏽' : 'bad',
     '👎🏾' : 'bad',
     '👎🏿' : 'bad',
-    '💩' : 'bad'
+    '💩' : 'bad',
+    '🤦' : 'disappointed', 
+    '🤦🏻' : 'disappointed', 
+    '🤦🏼' : 'disappointed',
+    '🤦🏽' : 'disappointed', 
+    '🤦🏾' : 'disappointed',
+    '🤦🏿' : 'disappointed', 
+    '🤦‍♂️' : 'disappointed', 
+    '🤦🏻‍♂️' : 'disappointed', 
+    '🤦🏼‍♂️' : 'disappointed',
+    '🤦🏽‍♂️' : 'disappointed', 
+    '🤦🏾‍♂️' : 'disappointed',
+    '🤦🏿‍♂️' : 'disappointed', 
+    '🤦‍♀️' : 'disappointed', 
+    '🤦🏻‍♀️' : 'disappointed', 
+    '🤦🏼‍♀️' : 'disappointed',
+    '🤦🏽‍♀️' : 'disappointed', 
+    '🤦🏾‍♀️' : 'disappointed',
+    '🤦🏿‍♀️' : 'disappointed'
+
 }
 
 sent_acronyms = {
