@@ -12,7 +12,7 @@ try:
     data = cur.fetchall()
     cur.close()
     df = pd.DataFrame(data, columns=column_names)
-    df.to_csv('datasets/raw data/raw_data.csv', index=False)
+    df.to_csv('../datasets/raw data/raw_data.csv', index=False)
 except (Exception, psycopg2.DatabaseError) as error:
     print(error)
 finally:
