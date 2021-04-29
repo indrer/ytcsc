@@ -1,5 +1,7 @@
 __pycache__
 GoogleNews-vectors-negative300.bin
+glove.twitter.27B.200d.txt
+gensim_glove_vectors.txt
 secret*
 .ipynb_checkpoints
 *.bin
